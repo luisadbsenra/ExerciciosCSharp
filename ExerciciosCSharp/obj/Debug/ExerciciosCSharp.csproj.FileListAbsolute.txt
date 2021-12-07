@@ -1,0 +1,8 @@
+C:\Users\LuísadeBarrosSenra\Documents\cursoC\CursoCSharp\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\ExerciciosCSharp.csproj.AssemblyReference.cache
+C:\Users\LuísadeBarrosSenra\Documents\cursoC\CursoCSharp\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\ExerciciosCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\LuísadeBarrosSenra\Documents\cursoC\CursoCSharp\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\ExerciciosCSharp.csproj.CoreCompileInputs.cache
+C:\Users\LuísadeBarrosSenra\Documents\cursoC\CursoCSharp\ExerciciosCSharp\ExerciciosCSharp\bin\Debug\ExerciciosCSharp.exe.config
+C:\Users\LuísadeBarrosSenra\Documents\cursoC\CursoCSharp\ExerciciosCSharp\ExerciciosCSharp\bin\Debug\ExerciciosCSharp.exe
+C:\Users\LuísadeBarrosSenra\Documents\cursoC\CursoCSharp\ExerciciosCSharp\ExerciciosCSharp\bin\Debug\ExerciciosCSharp.pdb
+C:\Users\LuísadeBarrosSenra\Documents\cursoC\CursoCSharp\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\ExerciciosCSharp.exe
+C:\Users\LuísadeBarrosSenra\Documents\cursoC\CursoCSharp\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\ExerciciosCSharp.pdb
